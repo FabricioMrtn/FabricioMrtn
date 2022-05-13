@@ -1,9 +1,11 @@
 # Olá
-Me chamo ***Fabricio Martins***, sou iniciante na area de desenvolvimento 
+Me chamo ***Fabricio Martins***, trabalho como Assistente de gerencia, sou iniciante na area de desenvolvimento e estou em transição de carreira.
 </br>
-Atuamente moro em São Paulo - SP
+Tenho interesse em desenvolver aplicações em Java, que é a linguagem com a qual tenho maior afinidade.
 </br>
-## Conhecimento
+Atuamente moro em São Paulo - SP.
+</br>
+## Conhecimento Tech
 Java
 </br>
 Python(basico)
@@ -13,7 +15,8 @@ MySQL(basico)
 HTML(basico)
 </br>
 CSS(basico)
-#### 
+## Conhecimentos gerais
+Ingles(intermediário)
 
 
 
@@ -26,7 +29,3 @@ CSS(basico)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
-<!---
-FabricioMrtn/FabricioMrtn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
