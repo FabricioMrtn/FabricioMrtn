@@ -8,13 +8,15 @@ Atuamente moro em São Paulo - SP.
 
 ## Conhecimento Tech
 
-Java
+Java(JUnit/SOLID)
 
 MySQL
 
 HTML
 
 CSS
+
+Desing Patterns(_ESTUDANDO_)
 
 ## Conhecimentos Gerais
 
