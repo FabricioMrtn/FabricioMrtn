@@ -8,18 +8,13 @@ Atuamente moro em São Paulo - SP.
 
 ## Conhecimento Tech
 
-Java(JUnit/SOLID)
-
-MySQL
-
-HTML
-
-CSS
-
-Desing Patterns(_ESTUDANDO_)
+- Java
+- Hibernate
+- Spring Data
+- Testes Unitarios(JUnit)
+- Basico MySQL
+- Bootstrap
 
 ## Conhecimentos Gerais
 
 Ingles (intermediário)
-
-Conhecimentos em gestão e administração de empresas
