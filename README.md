@@ -11,6 +11,7 @@ Atuamente moro em São Paulo - SP.
 - Java
 - Hibernate
 - Spring Data
+- Spring Boot
 - Testes Unitarios(JUnit)
 - Basico MySQL
 - Bootstrap
