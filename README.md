@@ -1,10 +1,9 @@
 # Olá
 
-Me chamo ***Fabricio Martins***, tenho 25 anos e trabalho como Assistente de gerencia, sou iniciante na area de desenvolvimento e estou em transição de carreira.
-
-Tenho interesse em desenvolver aplicações em Java, que é a linguagem com a qual tenho maior afinidade.
-
-Atuamente moro em São Paulo - SP.
+Me chamo ***Fabricio Martins***, tenho 26 anos e sou administrador do Mercado Novolar, localizado em São Paulo - SP, sou iniciante na area de desenvolvimento e busco minha primeira oportunidade.
+Tenho interesse em desenvolver aplicações em Java, que é a linguagem com a qual tenho maior afinidade, mas tambem tive experiencias com Python e Ruby, movido pela curiosidade.
+Estou cursando o terceiro semestre de Analise e Desenvolvimento de Sistemas na Uninove, com formação para junho de 2025.
+Atuamente moro na zona leste da cidade de São Paulo.
 
 ## Conhecimento Tech
 
@@ -15,7 +14,3 @@ Atuamente moro em São Paulo - SP.
 - Testes Unitarios(JUnit)
 - Basico MySQL
 - Bootstrap
-
-## Conhecimentos Gerais
-
-Ingles (intermediário)
